@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>xadrez_console.xadrez</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\xadrez-console.tabuleiro\xadrez-console.tabuleiro.csproj" />
+  </ItemGroup>
+
+</Project>
